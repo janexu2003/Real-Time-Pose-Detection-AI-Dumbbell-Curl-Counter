@@ -1,0 +1,11 @@
+# Virtual Environment
+mediapipe-env/
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code local config
+.vscode/
